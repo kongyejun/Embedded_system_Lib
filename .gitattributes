@@ -1,0 +1,10 @@
+# 自动处理文本文件的行结束符
+* text=auto
+
+# 明确指定C/C++文件使用LF
+*.c text eol=lf
+*.h text eol=lf
+
+# 对二进制文件禁用转换（可选）
+*.bin binary
+*.jpg binary
