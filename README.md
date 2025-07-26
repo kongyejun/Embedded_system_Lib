@@ -8,3 +8,4 @@ _仓库说明：该开放仓库是本人学习嵌入式期间写的一些小项�
 2. K210SLModuleDevelopment：学习 K210 时根据官方文档独自写的各小项目程序
 3. ParkingLotSystem：基于 Arduino 开发的简单停车场进出计数管理系统
 4. STM32ModuleDevelopment：学习 STM32 时根据江协科技的视频独自编写的各小项目程序
+5. AirPump：使用Linko和NG32进行压电陶瓷驱动开发的总结以及使用WinForm框架开发的上位机应用展示
