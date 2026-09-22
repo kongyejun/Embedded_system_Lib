@@ -1,0 +1,19 @@
+[17:19:56] [INFO ] log_system_init: log init ok, buf=4096, filter=1
+[17:19:56] [INFO ] io_system_init: IO System Init OK
+[17:19:56] [INFO ] w25qxx_drv_init: W25Q init start
+[17:19:56] [INFO ] w25qxx_drv_init: W25Q init OK (ID:0xEF17)
+[17:19:56] [INFO ] ads1255_init: ADS0: Initting
+[17:19:56] [INFO ] ads1255_init: Init ok
+[17:19:56] [INFO ] ads1255_init: ADS1: Initting
+[17:19:56] [INFO ] ads1255_init: Init ok
+[17:19:56] [INFO ] adc_system_init: ADS Init OK
+------------------------------------------------------------ START 2026-09-22 17:23:40 ------------------------------------------------------------
+[17:23:47] [INFO ] log_system_init: log init ok, buf=4096, filter=1
+[17:23:47] [INFO ] io_system_init: IO System Init OK
+[17:23:47] [INFO ] w25qxx_drv_init: W25Q init start
+[17:23:47] [INFO ] w25qxx_drv_init: W25Q init OK (ID:0xEF17)
+[17:23:47] [INFO ] ads1255_init: ADS0: Initting
+[17:23:47] [INFO ] ads1255_init: Init ok
+[17:23:47] [INFO ] ads1255_init: ADS1: Initting
+[17:23:47] [INFO ] ads1255_init: Init ok
+[17:23:47] [INFO ] adc_system_init: ADS Init OK
